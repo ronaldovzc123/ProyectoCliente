@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\bin\Debug\Clientes.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\bin\Debug\Clientes.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\bin\Debug\Clientes.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.Clinete_Datos.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Clientes\Clientes\obj\Debug\Clientes.Form1.resources
